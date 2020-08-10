@@ -1,6 +1,5 @@
 # CREATE-BATCH-LAYER-IN-LAMBDA-ARCHITECTURE-AND-STORE-OUTPUT-IN-CASSANDRA
 INTRODUCTION: 
-
 Our task is to prepare batch layer of lambda architecture. We have to do some basic analytics and display the output as well as transfer the output into Cassandra tables.   
 
 TASK: 
@@ -26,5 +25,4 @@ TASK:
 10.Show total number of downloads by each country?  
 
 CONCLUSION: 
-
 Thus, the key space having ten tables which fetched the values from spark sql. All the information and values are successfully loaded into Cassandra tables. 
