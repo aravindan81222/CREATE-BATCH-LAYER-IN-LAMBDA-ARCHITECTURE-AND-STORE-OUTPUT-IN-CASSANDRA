@@ -1,4 +1,4 @@
-# aravindan81222-CREATE-BATCH-LAYER-IN-LAMBDA-ARCHITECTURE-AND-STORE-OUTPUT-IN-CASSANDRA
+# CREATE-BATCH-LAYER-IN-LAMBDA-ARCHITECTURE-AND-STORE-OUTPUT-IN-CASSANDRA
 INTRODUCTION: 
 
 Our task is to prepare batch layer of lambda architecture. We have to do some basic analytics and display the output as well as transfer the output into Cassandra tables.   
